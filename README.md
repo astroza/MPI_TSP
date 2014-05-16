@@ -8,7 +8,7 @@ Compiling
 
 * mpicc tsp.c -o tsp
 
-Debug Enabled
+with debug enabled
 
 * mpicc -DENABLE_DEBUG tsp.c -o tsp
 
